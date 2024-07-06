@@ -18,8 +18,8 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/SouravGithub00/calender-app.git
+   cd calender-app
    ```
 
 2. **Install dependencies:**
